@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hello, I'm a software engineer specializing in 3D and extended reality (XR). I am passionate about immersive technologies and here's a glimpse of my profile:
 
-<!--
-**Louis27140/Louis27140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Expertise:
 
-Here are some ideas to get you started:
+  - Software development in 3D/VR/AR using Unity 3D
+  - Proficient in ARFoundation, Vuforia, SteamVR, OpenXR, and XR Interaction Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Objective:
+
+  - Pushing the boundaries of virtual reality (VR) and augmented reality (AR)
+  - Creating innovative and captivating experiences
+
+💡 Interests:
+
+  - Exploring emerging technologies in the field
+  - Game development and design
+  - Digital twins and applications for research
+
+🚀 Projects:
+
+  - [VRProjectDemo](https://github.com/Louis27140/VRProjectDemo): A proof-of-concept project showcasing virtual reality capabilities
+
+Feel free to explore my GitHub projects.
