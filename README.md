@@ -3,7 +3,7 @@
 💼 Expertise:
 
   - Software development in 3D/VR/AR using Unity 3D
-  - Proficient in ARFoundation, Vuforia, SteamVR, OpenXR, and XR Interaction Toolkit
+  - Proficient in SteamVR, OpenXR, and XR Interaction Toolkit
 
 🌟 Objective:
 
