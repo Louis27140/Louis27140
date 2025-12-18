@@ -18,6 +18,6 @@
 
 🚀 Projects:
 
-  - [VRProjectDemo](https://github.com/Louis27140/VRProjectDemo): A proof-of-concept project showcasing virtual reality capabilities
+  - WIP
 
 Feel free to explore my GitHub projects.
