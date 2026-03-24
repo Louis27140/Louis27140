@@ -1,23 +1,32 @@
-👋 Hello, I'm a software engineer specializing in 3D and extended reality (XR). I am passionate about immersive technologies and here's a glimpse of my profile:
+👋 Hi, I'm Louis — XR / 3D Software Engineer
 
-💼 Expertise:
+I build interactive systems for virtual and mixed reality using Unity.
 
-  - Software development in 3D/VR/AR using Unity 3D
-  - Proficient in SteamVR, OpenXR, and XR Interaction Toolkit
+💼 What I do
 
-🌟 Objective:
+- XR development (VR/AR/MR) with Unity
+- OpenXR & XR Interaction Toolkit
+- Interaction systems design (grab, sockets, anchors, etc.)
+- Real-time 3D applications and tools
+- Experience with digital twins and research-oriented projects
 
-  - Pushing the boundaries of virtual reality (VR) and augmented reality (AR)
-  - Creating innovative and captivating experiences
+🚀 Featured Projects
 
-💡 Interests:
+- 🔧 Core  
+  Reusable foundation for Unity projects (debug tools, utilities, shared systems)  
+  👉 https://github.com/Louis27140/Core
 
-  - Exploring emerging technologies in the field
-  - Game development and design
-  - Digital twins and applications for research
+- 🕶 XR-Interactions  
+  Modular interaction framework built on top of XR Interaction Toolkit  
+  (custom grab logic, sockets, interaction strategies)  
+  👉 https://github.com/Louis27140/XR-Interactions
 
-🚀 Projects:
+🎯 Focus
 
-  - WIP
+I care about building clean, reusable systems rather than one-off prototypes.
 
-Feel free to explore my GitHub projects.
+💡 Interests
+
+- XR & immersive tech
+- Game development
+- System architecture in Unity
