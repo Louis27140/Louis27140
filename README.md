@@ -2,6 +2,16 @@
 
 I build interactive systems for virtual and mixed reality using Unity.
 
+## 🎥 Demo
+
+Lightweight examples of modular XR interaction systems (remote grab, inventory)
+
+### Remote Grab
+![Remote Grab](./docs/remote-grab.gif)
+
+### Inventory System
+![Inventory](./docs/inventory.gif)
+
 💼 What I do
 
 - XR development (VR/AR/MR) with Unity
