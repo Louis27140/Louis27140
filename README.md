@@ -7,10 +7,10 @@ I build interactive systems for virtual and mixed reality using Unity.
 <p>Lightweight examples of modular XR interaction systems (remote grab, inventory)</p>
 
 <h3>Remote Grab</h3>
-<img src="./docs/remote-grab.gif" width="500"/>
+<img src="./docs/remote-grab.gif" width="300"/>
 
 <h3>Inventory System</h3>
-<img src="./docs/inventory.gif" width="500"/>
+<img src="./docs/inventory.gif" width="300"/>
 
 💼 What I do
 
